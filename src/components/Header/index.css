@@ -1,0 +1,11 @@
+.nav-container {
+  height: 10vh;
+  width: 100vw;
+  background-color: #f1f5f9;
+}
+.icon {
+  height: 50px;
+  width: 120px;
+  margin-left: 30px;
+  margin-top: 5px;
+}

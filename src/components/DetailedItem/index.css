@@ -1,0 +1,17 @@
+.view-cont {
+  height: 80vh;
+  width: 80vw;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-content: flex-start;
+}
+.image {
+  height: 400px;
+  width: 400px;
+}
+.content {
+  width: 50%;
+  padding-top: 40px;
+}
